@@ -1,4 +1,4 @@
-package List;
+package ExerciciosLis;
 
 import java.util.ArrayList;
 import java.util.Iterator;

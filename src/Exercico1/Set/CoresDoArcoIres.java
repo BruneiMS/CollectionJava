@@ -1,4 +1,4 @@
-package Set;
+package Exercico1.Set;
 
 import java.util.ArrayList;
 import java.util.Arrays;
